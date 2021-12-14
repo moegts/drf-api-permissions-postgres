@@ -8,6 +8,7 @@ authors = ["Mohammad Khalil <moegts@gmail.com>"]
 python = "^3.9"
 Django = "^4.0"
 djangorestframework = "^3.13.0"
+psycopg2-binary = "^2.9.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
